@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="200" height="200" viewBox="0 0 200 200" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <!-- Background Shield -->
+  <path d="M100 10L180 50V150L100 190L20 150V50L100 10Z" fill="#1E3791"/>
+  <path d="M100 20L170 55V145L100 180L30 145V55L100 20Z" fill="#ffffff"/>
+  
+  <!-- Baseball -->
+  <circle cx="100" cy="100" r="45" fill="#CC0000"/>
+  <path d="M70 100C70 100 90 80 100 100C110 120 130 100 130 100" stroke="white" stroke-width="4" stroke-linecap="round"/>
+  <path d="M100 70C100 70 80 90 100 100C120 110 100 130 100 130" stroke="white" stroke-width="4" stroke-linecap="round"/>
+  
+  <!-- Stars -->
+  <path d="M60 40L65 50L75 52L67.5 60L69 70L60 65L51 70L52.5 60L45 52L55 50L60 40Z" fill="#CC0000"/>
+  <path d="M140 40L145 50L155 52L147.5 60L149 70L140 65L131 70L132.5 60L125 52L135 50L140 40Z" fill="#CC0000"/>
+</svg> 
